@@ -34,8 +34,6 @@ MACHTWATCHs-MacBook-Pro-4 GraphQL % node server.js
 }
 ```
 
-server running on http://localhost:9000/
-
 ## Http Request
 
 ```js
