@@ -3,7 +3,7 @@ Learn GraphQL by writing full-stack JavaScript applications with Node.js, Expres
 
 # Introduction
 ## What's is GraphQL
-<img width="1340" alt="image" src="https://user-images.githubusercontent.com/85268263/155052300-a11defc0-e89a-43eb-b7d4-75a586cf941a.png">
+![wrapper](https://user-images.githubusercontent.com/85268028/155086758-dd7c6f28-cbe4-44bd-bc23-d67300785d11.png)
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
 ## Defining a Schema
@@ -39,8 +39,6 @@ yusuf@Yusufs-MacBook-Pro GraphQL % node server.js
 server running on http://localhost:9000/
 ```
 
-<img width="912" alt="image" src="https://user-images.githubusercontent.com/85268263/155063419-aa07d72e-0e4b-410f-8dbb-7b8fb51c9dc6.png">
-
 ## Http Request
 
 ```js
@@ -73,7 +71,7 @@ fetchGreeting().then(greeting => {
 # Apollo Server
 Apollo Server is an open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. It's the best way to build a production-ready, self-documenting GraphQL API that can use data from any source.
 
-![image](https://user-images.githubusercontent.com/85268263/155081410-0978672c-a8e3-4306-8ad3-b144a08d2709.png)
+![graphql-apollo-server-installation](https://user-images.githubusercontent.com/85268028/155087325-ac856ca2-c6ae-40f3-bc6c-55eca9c04e28.png)
 
 You can use Apollo Server as:
 * A stand-alone GraphQL server, including in a serverless environment
