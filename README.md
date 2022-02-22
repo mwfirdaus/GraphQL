@@ -9,7 +9,7 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 ## Defining a Schema
 
 ```sh
-yusuf@Yusufs-MacBook-Pro GraphQL % node server.js
+MACHTWATCHs-MacBook-Pro-4 GraphQL % node server.js
 {
   kind: 'Document',
   definitions: [
@@ -35,7 +35,7 @@ yusuf@Yusufs-MacBook-Pro GraphQL % node server.js
 ```
 
 ```sh
-yusuf@Yusufs-MacBook-Pro GraphQL % node server.js
+MACHTWATCHs-MacBook-Pro-4 GraphQL % node server.js
 server running on http://localhost:9000/
 ```
 
