@@ -69,11 +69,8 @@ fetchGreeting().then(greeting => {
 Apollo Server is an open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. It's the best way to build a production-ready, self-documenting GraphQL API that can use data from any source.
 
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/85268028/155094760-7b7de3f2-6d3e-4e99-9a1e-6cbf915495f9.png">
-server running on http://localhost:9000/
 
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/85268028/155094876-2246bc15-ecb0-4373-aa1a-5e6198880f1a.png">
-
-![graphql-apollo-server-installation](https://user-images.githubusercontent.com/85268028/155087325-ac856ca2-c6ae-40f3-bc6c-55eca9c04e28.png)
 
 You can use Apollo Server as:
 * A stand-alone GraphQL server, including in a serverless environment
